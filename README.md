@@ -52,11 +52,11 @@ Fact 3 is the one people under-price. HP is not just defence in AOS — it is a 
 
 ### Sage Awakening
 
-Awakening Sage fights on a **Kibelius** with a **Talon/Kyve** offhand, and its identity is spatial
+Awakening Sage fights on a **Kibelius** with a **Talisman** offhand, and its identity is spatial
 displacement plus large-area lightning. The kit is built around **Overcharge**: `Bolt` and `Lightning
 Surge` gain bonus effects when cast after another skill that is off cooldown, and — crucially — **they
 can be cast while on cooldown**. That single property makes them the best add-on carriers in the class,
-which section 6 exploits.
+which section 8 exploits.
 
 The honest summary of the spec, from the class guide **[C]**:
 
@@ -331,7 +331,7 @@ and it is the one I cannot put a number on from public data.
 
 | Axis | Sage Awakening | Hashashin Awakening | Edge |
 |---|---|---|---|
-| Ranged grab | `Seize` | `Constriction` | Tie — both now carry a 0.3–0.7s startup and a visible tell **[V]** |
+| Ranged grab | `Seize` | `Constriction` | Tie — both now carry a 0.4–0.7s startup and a visible tell **[V]** |
 | Protected CC entries | Fewer, by the class guide's own summary **[C]** | `Prophesy Blade` (SA), `Mirage Assault` (SA→FG, KD), `Shadow Slicer` (SA, stiffness) | **Hashashin** |
 | Range / poke | Medium-long, `Enlightening Bolt` with FG, `Energized Thorn` | Short-medium | **Sage** |
 | Stamina economy | Explicitly a weakness **[C]** | No comparable tax | **Hashashin** |
@@ -379,7 +379,7 @@ maintain that distance, and a 3-minute round is long enough for the stamina tax 
    work here.
 3. **Never chase.** Your win condition is a single `Seize` at max range. Every step you take toward him is
    stamina you cannot spend escaping.
-4. Bait `Constriction`. It now has a 0.3–0.7s wind-up and a visible effect **[V]** — that window is your
+4. Bait `Constriction`. It now has a 0.4–0.7s wind-up and a visible effect **[V]** — that window is your
    punish.
 
 **If you are the Hashashin:**
